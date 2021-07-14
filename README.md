@@ -2,6 +2,15 @@
 
 ## Table of Contents
 
+<!-- vim-markdown-toc GitLab -->
+
+* [Introduction](#introduction)
+* [Algorithms](#algorithms)
+* [Data Structures](#data-structures)
+* [Contributing](#contributing)
+* [Author](#author)
+
+<!-- vim-markdown-toc -->
 
 ## Introduction
 
