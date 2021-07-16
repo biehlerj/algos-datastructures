@@ -24,7 +24,6 @@ The current languages I am using are (in no particular order):
 4. Lua
 5. Java
 6. TypeScript
-7. Ruby
 
 More languages will be added as I go
 
