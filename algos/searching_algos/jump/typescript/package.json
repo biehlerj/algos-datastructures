@@ -1,0 +1,26 @@
+{
+  "name": "jump_search",
+  "version": "1.0.0",
+  "description": "Jump Search Algorithm in TypeScript",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage",
+    "lint": "eslint . --ext .ts --fix",
+    "jumpSearch": "npm run lint && npm run test && npm run coverage"
+  },
+  "author": "Jacob Biehler",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.3.5"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.24",
+    "@typescript-eslint/eslint-plugin": "^4.28.3",
+    "@typescript-eslint/parser": "^4.28.3",
+    "eslint": "^7.30.0",
+    "jest": "^27.0.6",
+    "prettier-eslint": "^12.0.0",
+    "ts-jest": "^27.0.3"
+  }
+}
