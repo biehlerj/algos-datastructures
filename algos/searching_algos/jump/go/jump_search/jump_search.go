@@ -6,7 +6,7 @@ import "math"
 // It does so following the jump search algorithm:
 // TODO wikipedia link
 // It return the index where the target is or -1 if the target isn't present
-func BinarySearch(arr []int64, arrLen int64, target int64) int64 {
+func JumpSearch(arr []int64, arrLen int64, target int64) int64 {
 	var lower int64 = 0
 	var jump float64 = math.Floor(math.Sqrt(float64(arrLen)))
 
